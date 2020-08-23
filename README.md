@@ -11,7 +11,7 @@ It can be run multiple times on the same machine safely. It installs, upgrades, 
 Download the script:
 
 ```sh
-git clone git@github.com/samuelematias/formation.git && cd formation
+git clone https://github.com/samuelematias/formation.git && cd formation
 ```
 
 Review the script (please don't run scripts you don't understand):
@@ -35,7 +35,7 @@ I created this based on my own preferences; your mileage may vary.
 
 Once the script is done, quit and relaunch Terminal.
 
-It is highly recommended to run the script regularly to keep your computer up to date.
+👉🏾 **It is highly recommended to run the script regularly to keep your computer up to date.** 👈🏾
 
 Your last Formation run will be saved to `~/slay.log`. To review it, run `less ~/slay.log`.
 
