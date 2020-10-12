@@ -1,7 +1,6 @@
 colortest::colortest
 eslint::eslint
 fast-cli::fast
-gatsby-cli::gatsby
 git-standup::git-standup
 hotel::hotel
 terminalizer::terminalizer
