@@ -1,5 +1,6 @@
 yarn
 nvm
+python3
 neovim
 tmux
 the_silver_searcher
